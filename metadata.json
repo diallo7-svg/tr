@@ -1,0 +1,6 @@
+{
+  "name": "Trésorerie Sous Contrôle",
+  "description": "Tableau de bord anti-crise de gestion et prévision de trésorerie (13 semaines, alertes runway, DSO/DPO, multi-devises, relances).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
